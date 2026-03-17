@@ -92,7 +92,7 @@ export const resumeConfig: ResumeConfig = {
     },
   ],
 
-  experiences: [
+  experience: [
     {
       id: 'vif',
       company: { fr: 'VIF', en: 'VIF' },
