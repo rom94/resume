@@ -39,7 +39,7 @@ export interface Experience {
   role: LocalizedString
   type?: LocalizedString
   period: LocalizedString
-  description?: LocalizedString
+  description: LocalizedString
   techs: (TechName | (string & {}))[]
   isHighlighted?: boolean
   subItem?: {
