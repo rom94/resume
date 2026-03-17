@@ -104,6 +104,10 @@ export const resumeConfig: ResumeConfig = {
         en: 'Active contribution to test strategy and software qualification.',
       },
       details: {
+        context: {
+          fr: 'Produit logiciel métier, équipe agile pluridisciplinaire.',
+          en: 'Business software product, agile cross-functional team.',
+        },
         tasks: {
           fr: [
             'Analyse et relecture des User Stories',
@@ -122,6 +126,10 @@ export const resumeConfig: ResumeConfig = {
             'Quality metrics monitoring',
           ],
         },
+        env: {
+          fr: 'Tests manuels / Qualification logicielle / Méthodes agiles',
+          en: 'Manual testing / Software qualification / Agile methods',
+        },
       },
     },
     {
@@ -134,6 +142,16 @@ export const resumeConfig: ResumeConfig = {
         fr: 'Accompagnement client, support et formation.',
         en: 'Customer support, onboarding and training.',
       },
+      details: {
+        context: {
+          fr: 'Entreprise spécialisée en cybersécurité.',
+          en: 'Cybersecurity-focused company.',
+        },
+        env: {
+          fr: 'Support client / Formation / Documentation',
+          en: 'Customer support / Training / Documentation',
+        },
+      },
     },
     {
       id: 'eudonet-manager',
@@ -141,6 +159,16 @@ export const resumeConfig: ResumeConfig = {
       role: { fr: 'Responsable du Service Support Clients', en: 'Customer Support Manager' },
       type: { fr: 'CDI', en: 'Permanent' },
       period: { fr: 'Septembre 2019 - Décembre 2023', en: 'September 2019 - December 2023' },
+      details: {
+        context: {
+          fr: 'Éditeur de logiciel CRM.',
+          en: 'CRM software publisher.',
+        },
+        env: {
+          fr: 'Management / Support N1-N2 / Tests avec la R&D',
+          en: 'Management / Level 1-2 support / Testing with R&D',
+        },
+      },
     },
     {
       id: 'eudonet-consultant',
@@ -148,6 +176,16 @@ export const resumeConfig: ResumeConfig = {
       role: { fr: 'Consultant Support', en: 'Support Consultant' },
       type: { fr: 'CDI', en: 'Permanent' },
       period: { fr: 'Juin 2018 - Décembre 2023', en: 'June 2018 - December 2023' },
+      details: {
+        context: {
+          fr: 'Support client sur solution CRM.',
+          en: 'Customer support on CRM solution.',
+        },
+        env: {
+          fr: 'Support N1-N2 / Formation / Tests',
+          en: 'Level 1-2 support / Training / Testing',
+        },
+      },
     },
     {
       id: 'eudonet-trainer',
@@ -155,24 +193,64 @@ export const resumeConfig: ResumeConfig = {
       role: { fr: 'Support logiciel / Formateur', en: 'Software Support / Trainer' },
       type: { fr: 'CDI', en: 'Permanent' },
       period: { fr: 'Mars 2016 - Décembre 2023', en: 'March 2016 - December 2023' },
+      details: {
+        context: {
+          fr: 'Formation et assistance utilisateurs sur CRM.',
+          en: 'User training and assistance on CRM.',
+        },
+        env: {
+          fr: 'CRM / Formation / Support utilisateur',
+          en: 'CRM / Training / User support',
+        },
+      },
     },
     {
       id: 'cinematheque',
       company: { fr: 'Cinémathèque française', en: 'French Cinematheque' },
       role: { fr: 'Apprenti technicien', en: 'IT Technician Apprentice' },
       period: { fr: 'Septembre 2013 - Mars 2016', en: 'September 2013 - March 2016' },
+      details: {
+        context: {
+          fr: 'Environnement informatique interne.',
+          en: 'Internal IT environment.',
+        },
+        env: {
+          fr: 'GLPI / Déploiement postes / Support utilisateurs',
+          en: 'GLPI / Workstation deployment / User support',
+        },
+      },
     },
     {
       id: 'bij',
       company: { fr: 'Bureau Information Jeunesse', en: 'Youth Information Office' },
       role: { fr: 'Formateur', en: 'Trainer' },
       period: { fr: 'Octobre 2013 - Juin 2015', en: 'October 2013 - June 2015' },
+      details: {
+        context: {
+          fr: 'Structure publique d\'accompagnement.',
+          en: 'Public support organization.',
+        },
+        env: {
+          fr: 'Bureautique / Formation / Assistance',
+          en: 'Office tools / Training / Assistance',
+        },
+      },
     },
     {
       id: 'gibert',
       company: { fr: 'Gibert Joseph', en: 'Gibert Joseph' },
       role: { fr: 'Préparateur & formateur', en: 'Order Picker & Trainer' },
       period: { fr: 'Janvier 2008 - Janvier 2012', en: 'January 2008 - January 2012' },
+      details: {
+        context: {
+          fr: 'Commerce et logistique.',
+          en: 'Retail and logistics.',
+        },
+        env: {
+          fr: 'Préparation commandes / Formation',
+          en: 'Order preparation / Training',
+        },
+      },
     },
   ],
 
