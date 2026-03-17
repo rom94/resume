@@ -92,7 +92,7 @@ export const resumeConfig: ResumeConfig = {
     },
   ],
 
-  experience: [
+  experiences: [
     {
       id: 'vif',
       company: { fr: 'VIF', en: 'VIF' },
@@ -223,6 +223,13 @@ export const resumeConfig: ResumeConfig = {
       education: { fr: 'FORMATION', en: 'EDUCATION' },
       hobbies: { fr: 'LOISIRS', en: 'HOBBIES' },
     },
+    experience: {
+      mainTasks: { fr: 'Missions principales :', en: 'Main tasks:' },
+      moreTasks: { fr: 'autres missions...', en: 'more tasks...' },
+      training: { fr: 'Formations :', en: 'Training:' },
+      techEnv: { fr: 'Env. technique :', en: 'Technical environment:' },
+      technologies: { fr: 'Technologies', en: 'Technologies' },
+  },
     actions: {
       clickHint: { fr: 'Cliquez pour voir le détail', en: 'Click to see details' },
       switchTheme: { fr: 'Changer le thème', en: 'Switch theme' },
