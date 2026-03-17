@@ -99,6 +99,13 @@ export const resumeConfig: ResumeConfig = {
       role: { fr: 'Ingénieur tests qualité', en: 'Quality Test Engineer' },
       type: { fr: 'CDI', en: 'Permanent' },
       period: { fr: 'Mars 2025 - Présent', en: 'March 2025 - Present' },
+      techs: [
+        'Tests manuels',
+        'Tests fonctionnels',
+        'Tests de non-régression',
+        'Plans de tests',
+        'User Stories',
+      ],
       description: {
         fr: 'Participation active à la stratégie de tests et à la qualification logicielle.',
         en: 'Active contribution to test strategy and software qualification.',
@@ -138,6 +145,12 @@ export const resumeConfig: ResumeConfig = {
       role: { fr: 'Customer Success Manager', en: 'Customer Success Manager' },
       type: { fr: 'CDI', en: 'Permanent' },
       period: { fr: 'Novembre 2023 - Mars 2025', en: 'November 2023 - March 2025' },
+      techs: [
+        'Support client',
+        'Formation utilisateurs',
+        'Documentation',
+        'Relation client',
+      ],
       description: {
         fr: 'Accompagnement client, support et formation.',
         en: 'Customer support, onboarding and training.',
@@ -159,6 +172,13 @@ export const resumeConfig: ResumeConfig = {
       role: { fr: 'Responsable du Service Support Clients', en: 'Customer Support Manager' },
       type: { fr: 'CDI', en: 'Permanent' },
       period: { fr: 'Septembre 2019 - Décembre 2023', en: 'September 2019 - December 2023' },
+      techs: [
+        'CRM',
+        'Support N1/N2',
+        'Management',
+        'Tests de non-régression',
+        'Documentation',
+      ],
       details: {
         context: {
           fr: 'Éditeur de logiciel CRM.',
@@ -176,6 +196,12 @@ export const resumeConfig: ResumeConfig = {
       role: { fr: 'Consultant Support', en: 'Support Consultant' },
       type: { fr: 'CDI', en: 'Permanent' },
       period: { fr: 'Juin 2018 - Décembre 2023', en: 'June 2018 - December 2023' },
+      techs: [
+        'CRM',
+        'Support N1/N2',
+        'Analyse fonctionnelle',
+        'Tests',
+      ],
       details: {
         context: {
           fr: 'Support client sur solution CRM.',
@@ -193,6 +219,13 @@ export const resumeConfig: ResumeConfig = {
       role: { fr: 'Support logiciel / Formateur', en: 'Software Support / Trainer' },
       type: { fr: 'CDI', en: 'Permanent' },
       period: { fr: 'Mars 2016 - Décembre 2023', en: 'March 2016 - December 2023' },
+      techs: [
+        'CRM',
+        'Formation clients',
+        'Support utilisateur',
+        'HTML',
+        'Publipostage',
+      ],
       details: {
         context: {
           fr: 'Formation et assistance utilisateurs sur CRM.',
@@ -209,6 +242,12 @@ export const resumeConfig: ResumeConfig = {
       company: { fr: 'Cinémathèque française', en: 'French Cinematheque' },
       role: { fr: 'Apprenti technicien', en: 'IT Technician Apprentice' },
       period: { fr: 'Septembre 2013 - Mars 2016', en: 'September 2013 - March 2016' },
+      techs: [
+        'GLPI',
+        'Support utilisateurs',
+        'Déploiement postes',
+        'Maintenance',
+      ],
       details: {
         context: {
           fr: 'Environnement informatique interne.',
@@ -225,6 +264,11 @@ export const resumeConfig: ResumeConfig = {
       company: { fr: 'Bureau Information Jeunesse', en: 'Youth Information Office' },
       role: { fr: 'Formateur', en: 'Trainer' },
       period: { fr: 'Octobre 2013 - Juin 2015', en: 'October 2013 - June 2015' },
+      techs: [
+        'Bureautique',
+        'Formation',
+        'Assistance utilisateurs',
+      ],
       details: {
         context: {
           fr: 'Structure publique d\'accompagnement.',
@@ -241,6 +285,11 @@ export const resumeConfig: ResumeConfig = {
       company: { fr: 'Gibert Joseph', en: 'Gibert Joseph' },
       role: { fr: 'Préparateur & formateur', en: 'Order Picker & Trainer' },
       period: { fr: 'Janvier 2008 - Janvier 2012', en: 'January 2008 - January 2012' },
+      techs: [
+        'Logistique',
+        'Gestion commandes',
+        'Formation',
+      ],
       details: {
         context: {
           fr: 'Commerce et logistique.',
