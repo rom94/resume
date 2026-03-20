@@ -19,7 +19,6 @@ export const resumeConfig: ResumeConfig = {
     title: 'Romain De Page — Ingénieur Test Qualité',
     description: 'CV interactif de Romain De Page, Ingénieur Test Qualité certifié ISTQB.',
     },
-  },
 
   languages: {
     default: 'fr',
