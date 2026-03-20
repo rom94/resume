@@ -185,6 +185,10 @@ export const resumeConfig: ResumeConfig = {
         'Tests de non-régression',
         'Documentation',
       ],
+      description: {
+        fr: 'Pilotage du support clients et coordination avec les équipes internes.',
+        en: 'Customer support management and coordination with internal teams.',
+      },
       details: {
         context: {
           fr: 'Éditeur de logiciel CRM.',
@@ -208,6 +212,10 @@ export const resumeConfig: ResumeConfig = {
         'Analyse fonctionnelle',
         'Tests',
       ],
+      description: {
+        fr: 'Support fonctionnel et technique auprès des clients CRM.',
+        en: 'Functional and technical support for CRM customers.',
+      },
       details: {
         context: {
           fr: 'Support client sur solution CRM.',
@@ -232,6 +240,10 @@ export const resumeConfig: ResumeConfig = {
         'HTML',
         'Publipostage',
       ],
+      description: {
+        fr: 'Formation et assistance des utilisateurs sur la solution CRM.',
+        en: 'User training and assistance on the CRM solution.',
+      },
       details: {
         context: {
           fr: 'Formation et assistance utilisateurs sur CRM.',
@@ -254,6 +266,10 @@ export const resumeConfig: ResumeConfig = {
         'Déploiement postes',
         'Maintenance',
       ],
+      description: {
+        fr: 'Support informatique interne et maintenance du parc informatique.',
+        en: 'Internal IT support and workstation maintenance.',
+      },
       details: {
         context: {
           fr: 'Environnement informatique interne.',
@@ -275,6 +291,10 @@ export const resumeConfig: ResumeConfig = {
         'Formation',
         'Assistance utilisateurs',
       ],
+      description: {
+        fr: 'Formation du public aux outils bureautiques et numériques.',
+        en: 'Training sessions on office and digital tools.',
+      },
       details: {
         context: {
           fr: 'Structure publique d\'accompagnement.',
@@ -296,6 +316,10 @@ export const resumeConfig: ResumeConfig = {
         'Gestion commandes',
         'Formation',
       ],
+      description: {
+        fr: 'Préparation des commandes et accompagnement des nouveaux arrivants.',
+        en: 'Order preparation and onboarding of new team members.',
+      },
       details: {
         context: {
           fr: 'Commerce et logistique.',
