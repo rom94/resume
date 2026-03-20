@@ -14,7 +14,7 @@ export const resumeConfig: ResumeConfig = {
     },
     location: 'Bouaye, Pays de la Loire, France',
   },
-
+  
   seo: {
   title: {
     fr: 'Romain De Page — Ingénieur Test Qualité',
