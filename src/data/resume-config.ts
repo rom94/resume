@@ -364,7 +364,7 @@ export const resumeConfig: ResumeConfig = {
     },
   ],
 
-  theme: { preset: 'slate' },
+  theme: { preset: 'minimal' },
 
   labels: {
     sections: {
