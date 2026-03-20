@@ -364,7 +364,7 @@ export const resumeConfig: ResumeConfig = {
     },
   ],
 
-  theme: { preset: 'forest' },
+  theme: { preset: 'warm' },
 
   labels: {
     sections: {
